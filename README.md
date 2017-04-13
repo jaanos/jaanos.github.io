@@ -11,7 +11,7 @@
 
 ### Repozitoriji / Repositories
 
-* [brouwer](https://github.com/jaanos/brouwer): mirror of Andries E. Brouwer's data on strongly regular and distance-regular graphs
+* [brouwer](https://github.com/jaanos/brouwer): [mirror](https://jaanos.github.io/brouwer) of Andries E. Brouwer's data on strongly regular and distance-regular graphs
 * [gap-graphs](https://github.com/jaanos/gap-graphs): a collection of graph constructions in GAP/GRAPE
 * [mixedgraph](https://github.com/jaanos/mixedgraph): a Sage class for graphs with both directed and undirected edges
 
