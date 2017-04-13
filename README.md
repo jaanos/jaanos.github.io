@@ -6,7 +6,7 @@
 ### Članki / Papers
 
 * J. Vidali, P. Nose, E. Pašalić: [Collisions for variants of the BLAKE hash function](http://lkrv.fri.uni-lj.si/~janos/blake/collisions.pdf)
-* M. Deza, E. Deza, J. Vidali: [Cones of Weighted and Partial Metrics](http://lkrv.fri.uni-lj.si/~janos/cones/) | [arXiv](http://arxiv.org/abs/1101.0517)
+* M. Deza, E. Deza, J. Vidali: [Cones of Weighted and Partial Metrics](http://lkrv.fri.uni-lj.si/~janos/cones/) \| [arXiv](http://arxiv.org/abs/1101.0517)
 * A. Jurišić, J. Vidali: [Extremal 1-codes in distance-regular graphs of diameter 3](http://link.springer.com/article/10.1007/s10623-012-9651-0)
 
 ### Repozitoriji / Repositories
