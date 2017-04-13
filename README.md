@@ -26,6 +26,7 @@
 
 ### Prispevki / Contributing
 
+* bottlesession | [my fork](https://github.com/jaanos/bottlesession): session management for bottle.py
 * [izpit](https://github.com/matijapretnar/izpit): a LaTeX package for exams
 * [Project Tomo](https://www.projekt-tomo.si/) | [repo](https://github.com/matijapretnar/projekt-tomo): a web service for teaching programming
 * [Sage](http://www.sagemath.org/) | [repo](https://github.com/sagemath/sage): open source mathematical software
