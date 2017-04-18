@@ -1,3 +1,7 @@
+---
+title: Janoš Vidali
+---
+
 ## Raziskovanje / Research
 
 ### Članki / Papers
