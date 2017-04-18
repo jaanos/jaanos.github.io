@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Termini za zagovore
+permalink: /zagovori
 ---
 
 ## Termini za zagovore
