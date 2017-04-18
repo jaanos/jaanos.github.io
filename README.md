@@ -1,5 +1,6 @@
 ---
 title: Janoš Vidali
+permalink: /
 ---
 
 ## Raziskovanje / Research
