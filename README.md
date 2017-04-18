@@ -42,7 +42,7 @@
 ### Magistrski predmeti / Master courses
 
 * Logika v računalništvu / Logic in Computer science: [2016](https://github.com/jaanos/LVR-2016) \| [2014](https://github.com/jaanos/lvr-sat-janos)
-* Računska geometrija / Computational geometry: [zagovori](zagovori.html)
+* Računska geometrija / Computational geometry: [zagovori](/zagovori/)
 * Teorija programskih jezikov / Theory of Programming Languages: [2015/16](https://github.com/jaanos/TPJ-2015-16)
 
 
