@@ -29,6 +29,7 @@ permalink: /
 ### Prispevki / Contributing
 
 * bottlesession \| [my fork](https://github.com/jaanos/bottlesession): session management for bottle.py
+* github-latest-commits \| [my fork](https://github.com/jaanos/github-latest-commits-widget): GitHub latest commits [widget](https://jaanos.github.io/github-latest-commits-widget/?username=jaanos&repo=jaanos.github.io)
 * [izpit](https://github.com/matijapretnar/izpit): a LaTeX package for exams
 * [Project Tomo](https://www.projekt-tomo.si/) \| [repo](https://github.com/matijapretnar/projekt-tomo): a web service for teaching programming
 * [Sage](http://www.sagemath.org/) \| [repo](https://github.com/sagemath/sage): open source mathematical software
