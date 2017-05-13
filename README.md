@@ -34,6 +34,11 @@ permalink: /
 * [Project Tomo](https://www.projekt-tomo.si/) \| [repo](https://github.com/matijapretnar/projekt-tomo): a web service for teaching programming
 * [Sage](http://www.sagemath.org/) \| [repo](https://github.com/sagemath/sage): open source mathematical software
 
+### Hrošči / Bugs
+
+* [jupyter-test](https://github.com/jaanos/jupyter-test): Jupyter/IPython notebook rendering test illustrating [two](https://gitlab.com/gitlab-org/gitlab-ce/issues/30900) [issues](https://gitlab.com/gitlab-org/gitlab-ce/issues/31910) with GitLab's renderer
+* [rvest-table-fill](https://github.com/jaanos/rvest-table-fill): the incorrect behaviour of `rvest` version `0.3.2` with multirow cells in HTML tables and the [proposed fix](https://github.com/hadley/rvest/pull/196)
+
 
 ## Učenje / Teaching
 (mostly in Slovene)
