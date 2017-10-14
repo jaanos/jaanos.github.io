@@ -24,6 +24,7 @@ permalink: /
 ### Razvoj / Developing
 
 * [DiscreteZOO](https://discretezoo.xyz) \| [GitHub repos](https://github.com/DiscreteZOO) \| [Sage interface](https://github.com/DiscreteZOO/DiscreteZOO-sage): a database of graphs and other combinatorial objects
+* [github-feeds](https://github.com/jaanos/github-feeds): GitHub event feed viewer
 * [jsonext](https://github.com/jaanos/jsonext): an extendable JSON parser for Python
 * [Kriptogram - crypto portal](https://lkrv.fri.uni-lj.si/crypto-portal/) \| [repo](https://github.com/jaanos/crypto-portal): a portal for cryptography (in Slovene)
 
@@ -31,6 +32,7 @@ permalink: /
 
 * bottlesession \| [my fork](https://github.com/jaanos/bottlesession): session management for bottle.py
 * github-latest-commits \| [my fork](https://github.com/jaanos/github-latest-commits-widget): GitHub latest commits [widget](https://jaanos.github.io/github-latest-commits-widget/?username=jaanos&repo=jaanos.github.io)
+* [Helios](https://heliosvoting.org/) \| [my fork](https://github.com/jaanos/helios-server): secure voting server
 * [izpit](https://github.com/matijapretnar/izpit): a LaTeX package for exams
 * [Project Tomo](https://www.projekt-tomo.si/) \| [repo](https://github.com/matijapretnar/projekt-tomo): a web service for teaching programming
 * [Sage](http://www.sagemath.org/) \| [repo](https://github.com/sagemath/sage): open source mathematical software
@@ -46,14 +48,14 @@ permalink: /
 
 ### Dodiplomski predmeti / Undergraduate courses
 
-* Analiza podatkov s programom R / Data analysis with R: [2017](https://github.com/jaanos/APPR-2017) ([zagovori](https://github.com/jaanos/APPR-2017-zagovori)) \| [2015/16](https://github.com/jaanos/APPR-2015-16) ([zagovori](https://github.com/jaanos/APPR-2015-16-zagovori)) \| [2014/15](https://github.com/jaanos/APPR-2014-15) ([zagovori](https://github.com/jaanos/APPR-2014-15-zagovori)) \| [predavanja](https://github.com/alenFMF/APPR-15-16)
+* Analiza podatkov s programom R / Data analysis with R: [2017/18](https://github.com/jaanos/APPR-2017-18) \| [2017](https://github.com/jaanos/APPR-2017) ([zagovori](https://github.com/jaanos/APPR-2017-zagovori)) \| [2015/16](https://github.com/jaanos/APPR-2015-16) ([zagovori](https://github.com/jaanos/APPR-2015-16-zagovori)) \| [2014/15](https://github.com/jaanos/APPR-2014-15) ([zagovori](https://github.com/jaanos/APPR-2014-15-zagovori)) \| [predavanja](https://github.com/alenFMF/APPR-15-16)
 * Operacijske raziskave / Operations research: [vaje](https://github.com/jaanos/operacijske-raziskave)
 * Osnove podatkovnih baz / Introduction to databases: [vaje](https://github.com/jaanos/OPB) \| [predavanja](https://github.com/alenFMF/OPB14-15)
 * Podatkovne strukture in algoritmi 1 / Data structures and algorithms 1: [vaje](https://github.com/jaanos/PSA1)
 
 ### Magistrski predmeti / Master courses
 
-* Logika v računalništvu / Logic in Computer science: [2016](https://github.com/jaanos/LVR-2016) \| [2014](https://github.com/jaanos/lvr-sat-janos)
+* Logika v računalništvu / Logic in Computer science: [vaje](https://github.com/jaanos/LVR) \| [2014](https://github.com/jaanos/lvr-sat-janos)
 * Računska geometrija / Computational geometry: [zagovori](/zagovori/)
 * Teorija programskih jezikov / Theory of Programming Languages: [2015/16](https://github.com/jaanos/TPJ-2015-16)
 
