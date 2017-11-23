@@ -33,13 +33,13 @@ permalink: /
 * bottlesession \| [my fork](https://github.com/jaanos/bottlesession): session management for bottle.py
 * github-latest-commits \| [my fork](https://github.com/jaanos/github-latest-commits-widget): GitHub latest commits [widget](https://jaanos.github.io/github-latest-commits-widget/?username=jaanos&repo=jaanos.github.io)
 * [Helios](https://heliosvoting.org/) \| [my fork](https://github.com/jaanos/helios-server): secure voting server
-* [izpit](https://github.com/matijapretnar/izpit): a LaTeX package for exams
-* [Project Tomo](https://www.projekt-tomo.si/) \| [repo](https://github.com/matijapretnar/projekt-tomo): a web service for teaching programming
+* [izpit](https://github.com/ul-fmf/izpit): a LaTeX package for exams
+* [Project Tomo](https://www.projekt-tomo.si/) \| [repo](https://github.com/ul-fmf/projekt-tomo): a web service for teaching programming
 * [Sage](http://www.sagemath.org/) \| [repo](https://github.com/sagemath/sage): open source mathematical software
 
 ### Hrošči / Bugs
 
-* [jupyter-test](https://github.com/jaanos/jupyter-test): Jupyter/IPython notebook rendering test illustrating [two](https://gitlab.com/gitlab-org/gitlab-ce/issues/30900) [issues](https://gitlab.com/gitlab-org/gitlab-ce/issues/31910) with GitLab's renderer
+* [jupyter-test](https://github.com/jaanos/jupyter-test): Jupyter/IPython notebook rendering test illustrating [two](https://gitlab.com/gitlab-org/gitlab-ce/issues/31910) [issues](https://gitlab.com/gitlab-org/gitlab-ce/issues/37536) with GitLab's renderer
 * [rvest-table-fill](https://github.com/jaanos/rvest-table-fill): the incorrect behaviour of `rvest` version `0.3.2` with multirow cells in HTML tables and the [proposed fix](https://github.com/hadley/rvest/pull/196)
 
 
