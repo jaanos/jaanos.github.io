@@ -55,6 +55,7 @@ permalink: /
 
 ### Magistrski predmeti / Master courses
 
+* Kriptografija in računalniška varnost / Cryptography and Computer security: [vaje](https://github.com/jaanos/kirv)
 * Logika v računalništvu / Logic in Computer science: [vaje](https://github.com/jaanos/LVR) \| [2014](https://github.com/jaanos/lvr-sat-janos)
 * Računska geometrija / Computational geometry: [zagovori](/zagovori/)
 * Teorija programskih jezikov / Theory of Programming Languages: [2015/16](https://github.com/jaanos/TPJ-2015-16)
