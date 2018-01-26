@@ -17,6 +17,7 @@ permalink: /
 * [brouwer](https://github.com/jaanos/brouwer): [mirror](https://jaanos.github.io/brouwer) of Andries E. Brouwer's data on strongly regular and distance-regular graphs, and Jason S. Williford's data on primitive 3-class *Q*-polynomial association schemes
 * [gap-graphs](https://github.com/jaanos/gap-graphs): a collection of graph constructions in GAP/GRAPE
 * [mixedgraph](https://github.com/jaanos/mixedgraph): a Sage class for graphs with both directed and undirected edges
+* [tilings](https://github.com/jaanos/tilings): a Sage package for surface tilings
 
 
 ## Projekti / Projects
