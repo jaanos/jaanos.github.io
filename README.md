@@ -13,12 +13,14 @@ permalink: /
 * A. Jurišić, J. Vidali: [Restrictions on classical distance-regular graphs](http://link.springer.com/article/10.1007/s10801-017-0765-3)
 * A. Jurišić, J. Vidali: [The Sylvester graph and Moore graphs](https://www.sciencedirect.com/science/article/pii/S0195669818300313)
 * P. Potočnik, J. Vidali: [Girth-regular graphs](https://arxiv.org/abs/1802.01881)
+* J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](https://arxiv.org/abs/1803.10797)
 
 ### Repozitoriji / Repositories
 
 * [brouwer](https://github.com/jaanos/brouwer): [mirror](https://jaanos.github.io/brouwer) of Andries E. Brouwer's data on strongly regular and distance-regular graphs, and Jason S. Williford's data on primitive 3-class *Q*-polynomial association schemes
 * [gap-graphs](https://github.com/jaanos/gap-graphs): a collection of graph constructions in GAP/GRAPE
 * [mixedgraph](https://github.com/jaanos/mixedgraph): a Sage class for graphs with both directed and undirected edges
+* [sage-drg](https://github.com/jaanos/sage-drg): a Sage package for checking feasibility of parameter sets of distance-regular graphs
 * [tilings](https://github.com/jaanos/tilings): a Sage package for surface tilings
 
 
