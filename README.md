@@ -17,10 +17,10 @@ permalink: /
 
 ### Repozitoriji / Repositories
 
-* [brouwer](https://github.com/jaanos/brouwer): [mirror](https://jaanos.github.io/brouwer) of Andries E. Brouwer's data on strongly regular and distance-regular graphs, and Jason S. Williford's data on primitive 3-class *Q*-polynomial association schemes
 * [gap-graphs](https://github.com/jaanos/gap-graphs): a collection of graph constructions in GAP/GRAPE
 * [mixedgraph](https://github.com/jaanos/mixedgraph): a Sage class for graphs with both directed and undirected edges
 * [sage-drg](https://github.com/jaanos/sage-drg): a Sage package for checking feasibility of parameter sets of distance-regular graphs
+* [tables](https://github.com/jaanos/tables): [mirror](https://jaanos.github.io/tables) of Andries E. Brouwer's data on strongly regular and distance-regular graphs, Jason S. Williford's data on primitive 3-class *Q*-polynomial association schemes, and G. Eric Moorhouse's data on projective planes and generalised polygons
 * [tilings](https://github.com/jaanos/tilings): a Sage package for surface tilings
 
 
