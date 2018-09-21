@@ -14,6 +14,7 @@ permalink: /
 * A. Jurišić, J. Vidali: [The Sylvester graph and Moore graphs](https://www.sciencedirect.com/science/article/pii/S0195669818300313)
 * P. Potočnik, J. Vidali: [Girth-regular graphs](https://arxiv.org/abs/1802.01881)
 * J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](https://arxiv.org/abs/1803.10797)
+* A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](http://arxiv.org/abs/1809.07553)
 
 ### Repozitoriji / Repositories
 
