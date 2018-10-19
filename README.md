@@ -13,7 +13,8 @@ permalink: /
 * A. Jurišić, J. Vidali: [Restrictions on classical distance-regular graphs](http://link.springer.com/article/10.1007/s10801-017-0765-3)
 * A. Jurišić, J. Vidali: [The Sylvester graph and Moore graphs](https://www.sciencedirect.com/science/article/pii/S0195669818300313)
 * P. Potočnik, J. Vidali: [Girth-regular graphs](https://arxiv.org/abs/1802.01881)
-* J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](https://arxiv.org/abs/1803.10797)
+* K. Berčič, J. Vidali: [DiscreteZOO: Towards a Fingerprint Database of Discrete Objects](https://link.springer.com/chapter/10.1007%2F978-3-319-96418-8_5#citeas)
+* J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p21)
 * A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](http://arxiv.org/abs/1809.07553)
 
 ### Repozitoriji / Repositories
