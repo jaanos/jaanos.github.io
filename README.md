@@ -57,6 +57,7 @@ permalink: /
 
 * Analiza podatkov s programom R / Data analysis with R: [2018/19](https://github.com/jaanos/APPR-2018-19) \| [2017/18](https://github.com/jaanos/APPR-2017-18) \| [2017](https://github.com/jaanos/APPR-2017) \| [2015/16](https://github.com/jaanos/APPR-2015-16) \| [2014/15](https://github.com/jaanos/APPR-2014-15) \| [zagovori](https://github.com/jaanos/APPR-zagovori) \| [predavanja](https://github.com/alenFMF/APPR-15-16) \| [slike za Docker](https://github.com/jaanos/APPR-docker)
 * Operacijske raziskave / Operations research: [vaje](https://github.com/jaanos/operacijske-raziskave)
+* Optimizacijske metode / Optimization methods: [vaje](https://github.com/jaanos/optimizacijske-metode)
 * Osnove podatkovnih baz / Introduction to databases: [vaje](https://github.com/jaanos/OPB) \| [predavanja](https://github.com/alenFMF/OPB14-15)
 * Podatkovne baze 1 / Databases 1: [2018/19](https://github.com/jaanos/najboljsi-filmi) \| [2017/18](https://github.com/jaanos/banka) \| [predavanja](https://github.com/matijapretnar/podatkovne-baze-1-2)
 * Podatkovne strukture in algoritmi 1 / Data structures and algorithms 1: [vaje](https://github.com/jaanos/PSA1)
