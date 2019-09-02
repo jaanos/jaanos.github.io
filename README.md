@@ -16,6 +16,7 @@ permalink: /
 * K. Berčič, J. Vidali: [DiscreteZOO: Towards a Fingerprint Database of Discrete Objects](https://arxiv.org/abs/1812.05921) \| [conference paper](https://link.springer.com/chapter/10.1007%2F978-3-319-96418-8_5)
 * J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p21)
 * A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](http://arxiv.org/abs/1809.07553)
+* A. Gavrilyuk, J. Vidali, J. Williford: [On few-class *Q*-polynomial association schemes: feasible parameters and nonexistence results](http://arxiv.org/abs/1908.10081)
 
 ### Repozitoriji / Repositories
 
