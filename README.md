@@ -11,10 +11,11 @@ permalink: /
 * M. Deza, E. Deza, J. Vidali: [Cones of Weighted and Partial Metrics](http://lkrv.fri.uni-lj.si/~janos/cones/) \| [arXiv](http://arxiv.org/abs/1101.0517)
 * A. Jurišić, J. Vidali: [Extremal 1-codes in distance-regular graphs of diameter 3](http://link.springer.com/article/10.1007/s10623-012-9651-0)
 * A. Jurišić, J. Vidali: [Restrictions on classical distance-regular graphs](http://link.springer.com/article/10.1007/s10801-017-0765-3)
-* A. Jurišić, J. Vidali: [The Sylvester graph and Moore graphs](https://www.sciencedirect.com/science/article/pii/S0195669818300313)
-* P. Potočnik, J. Vidali: [Girth-regular graphs](https://amc-journal.eu/index.php/amc/article/view/1684)
 * K. Berčič, J. Vidali: [DiscreteZOO: Towards a Fingerprint Database of Discrete Objects](https://arxiv.org/abs/1812.05921) \| [conference paper](https://link.springer.com/chapter/10.1007%2F978-3-319-96418-8_5)
 * J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p21)
+* A. Jurišić, J. Vidali: [The Sylvester graph and Moore graphs](https://www.sciencedirect.com/science/article/pii/S0195669818300313)
+* P. Potočnik, J. Vidali: [Girth-regular graphs](https://amc-journal.eu/index.php/amc/article/view/1684)
+* A. Jurišić, J. Vidali: [No strongly regular graph is locally Heawood](https://www.chebsbornik.ru/jour/issue/viewFile/27/11#page=190)
 * A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](http://arxiv.org/abs/1809.07553)
 * A. Gavrilyuk, J. Vidali, J. Williford: [On few-class *Q*-polynomial association schemes: feasible parameters and nonexistence results](http://arxiv.org/abs/1908.10081)
 
@@ -56,11 +57,11 @@ permalink: /
 
 ### Dodiplomski predmeti / Undergraduate courses
 
-* Analiza podatkov s programom R / Data analysis with R: [2018/19](https://github.com/jaanos/APPR-2018-19) \| [2017/18](https://github.com/jaanos/APPR-2017-18) \| [2017](https://github.com/jaanos/APPR-2017) \| [2015/16](https://github.com/jaanos/APPR-2015-16) \| [2014/15](https://github.com/jaanos/APPR-2014-15) \| [zagovori](https://github.com/jaanos/APPR-zagovori) \| [predavanja](https://github.com/alenFMF/APPR-15-16) \| [slike za Docker](https://github.com/jaanos/APPR-docker)
+* Analiza podatkov s programom R / Data analysis with R: [2019/20](https://github.com/jaanos/APPR-2019-20) \| [2018/19](https://github.com/jaanos/APPR-2018-19) \| [2017/18](https://github.com/jaanos/APPR-2017-18) \| [2017](https://github.com/jaanos/APPR-2017) \| [2015/16](https://github.com/jaanos/APPR-2015-16) \| [2014/15](https://github.com/jaanos/APPR-2014-15) \| [zagovori](https://github.com/jaanos/APPR-zagovori) \| [predavanja](https://github.com/alenFMF/APPR-15-16) \| [slike za Docker](https://github.com/jaanos/APPR-docker)
 * Operacijske raziskave / Operations research: [vaje](https://github.com/jaanos/operacijske-raziskave) \| [zbirka nalog](https://github.com/jaanos/or-zbirka)
 * Optimizacijske metode / Optimization methods: [vaje](https://github.com/jaanos/optimizacijske-metode)
 * Osnove podatkovnih baz / Introduction to databases: [vaje](https://github.com/jaanos/OPB) \| [primer z `bottle.py`](https://github.com/jaanos/OPB-bottle) \| [primer s Shiny](https://github.com/jaanos/OPB-shiny) \| [predavanja](https://github.com/alenFMF/OPB14-15)
-* Podatkovne baze 1 / Databases 1: [2018/19](https://github.com/jaanos/najboljsi-filmi) \| [2017/18](https://github.com/jaanos/banka) \| [predavanja](https://github.com/matijapretnar/podatkovne-baze-1-2)
+* Podatkovne baze 1 / Databases 1: [2019/20](https://github.com/jaanos/filmi) \| [2018/19](https://github.com/jaanos/najboljsi-filmi) \| [2017/18](https://github.com/jaanos/banka) \| [predavanja](https://github.com/matijapretnar/podatkovne-baze-1)
 * Podatkovne strukture in algoritmi 1 / Data structures and algorithms 1: [vaje](https://github.com/jaanos/PSA1)
 * Uvod v programiranje / Introduction to programming: [2017/18](https://github.com/jaanos/zelvje-dirke) \| [predavanja](https://github.com/matijapretnar/uvod-v-programiranje)
 
