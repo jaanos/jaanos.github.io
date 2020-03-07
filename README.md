@@ -14,9 +14,9 @@ permalink: /
 * J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p21) \| [conference paper](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/105.html)
 * A. Jurišić, J. Vidali: [The Sylvester graph and Moore graphs](https://www.sciencedirect.com/science/article/pii/S0195669818300313)
 * P. Potočnik, J. Vidali: [Girth-regular graphs](https://amc-journal.eu/index.php/amc/article/view/1684)
-* A. Jurišić, J. Vidali: [No strongly regular graph is locally Heawood](https://www.chebsbornik.ru/jour/issue/viewFile/27/11#page=190)
+* A. Jurišić, J. Vidali: [No strongly regular graph is locally Heawood](https://www.chebsbornik.ru/jour/article/view/605/498)
 * K. Berčič, J. Vidali: [DiscreteZOO: A Fingerprint Database of Discrete Objects](https://link.springer.com/article/10.1007/s11786-020-00453-5?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200215) \| [conference paper](https://link.springer.com/chapter/10.1007%2F978-3-319-96418-8_5)
-* A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](http://arxiv.org/abs/1809.07553)
+* A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](https://link.springer.com/article/10.1007%2Fs00493-019-4115-z) \| [arXiv](http://arxiv.org/abs/1809.07553)
 * A. Gavrilyuk, J. Vidali, J. Williford: [On few-class *Q*-polynomial association schemes: feasible parameters and nonexistence results](http://arxiv.org/abs/1908.10081)
 
 ### Repozitoriji / Repositories
