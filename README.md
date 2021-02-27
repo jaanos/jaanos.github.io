@@ -17,7 +17,7 @@ permalink: /
 * A. Jurišić, J. Vidali: [No strongly regular graph is locally Heawood](https://www.chebsbornik.ru/jour/article/view/605/498)
 * K. Berčič, J. Vidali: [DiscreteZOO: A Fingerprint Database of Discrete Objects](https://link.springer.com/article/10.1007/s11786-020-00453-5?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200215) \| [conference paper](https://link.springer.com/chapter/10.1007%2F978-3-319-96418-8_5)
 * A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](https://link.springer.com/article/10.1007%2Fs00493-019-4115-z) \| [arXiv](http://arxiv.org/abs/1809.07553)
-* A. Gavrilyuk, J. Vidali, J. Williford: [On few-class *Q*-polynomial association schemes: feasible parameters and nonexistence results](http://arxiv.org/abs/1908.10081)
+* A. Gavrilyuk, J. Vidali, J. Williford: [On few-class *Q*-polynomial association schemes: feasible parameters and nonexistence results](https://amc-journal.eu/index.php/amc/article/view/2101)
 * P. Potočnik, J. Vidali: [Cubic vertex-transitive graphs of girth six](https://arxiv.org/abs/2005.01635)
 
 ### Repozitoriji / Repositories
@@ -37,6 +37,7 @@ permalink: /
 * [github-feeds](https://github.com/jaanos/github-feeds): GitHub event feed viewer
 * [jsonext](https://github.com/jaanos/jsonext): an extendable JSON parser for Python
 * [Kriptogram - crypto portal](https://lkrv.fri.uni-lj.si/crypto-portal/) \| [repo](https://github.com/jaanos/crypto-portal): a portal for cryptography (in Slovene)
+* [onlyonce](https://github.com/jaanos/onlyonce): a service for ephemeral data transfer
 
 ### Prispevki / Contributing
 
@@ -58,11 +59,12 @@ permalink: /
 
 ### Dodiplomski predmeti / Undergraduate courses
 
-* Analiza podatkov s programom R / Data analysis with R: [2019/20](https://github.com/jaanos/APPR-2019-20) \| [2018/19](https://github.com/jaanos/APPR-2018-19) \| [2017/18](https://github.com/jaanos/APPR-2017-18) \| [2017](https://github.com/jaanos/APPR-2017) \| [2015/16](https://github.com/jaanos/APPR-2015-16) \| [2014/15](https://github.com/jaanos/APPR-2014-15) \| [zagovori](https://github.com/jaanos/APPR-zagovori) \| [predavanja](https://github.com/alenFMF/APPR-15-16) \| [slike za Docker](https://github.com/jaanos/APPR-docker)
+* Analiza podatkov s programom R / Data analysis with R: [2020/21](https://github.com/jaanos/APPR-2020-21) \| [2019/20](https://github.com/jaanos/APPR-2019-20) \| [2018/19](https://github.com/jaanos/APPR-2018-19) \| [2017/18](https://github.com/jaanos/APPR-2017-18) \| [2017](https://github.com/jaanos/APPR-2017) \| [2015/16](https://github.com/jaanos/APPR-2015-16) \| [2014/15](https://github.com/jaanos/APPR-2014-15) \| [zapiski](https://github.com/jaanos/APPR-zapiski) \| [zagovori](https://github.com/jaanos/APPR-zagovori) \| [predavanja](https://github.com/alenFMF/APPR-15-16) \| [slike za Docker](https://github.com/jaanos/APPR-docker)
+* Diskretne strukture (FiM) / Discrete structures: [vaje](https://github.com/jaanos/diskretne-strukture-fim)
 * [Operacijske raziskave / Operations research](https://jaanos.github.io/operacijske-raziskave/): [vaje](https://github.com/jaanos/operacijske-raziskave) \| [zbirka nalog](https://github.com/jaanos/or-zbirka)
 * [Optimizacijske metode / Optimization methods](https://jaanos.github.io/optimizacijske-metode/): [vaje](https://github.com/jaanos/optimizacijske-metode) \| [LaTeX paket za risanje omrežij](https://github.com/jaanos/omrezja)
 * [Osnove podatkovnih baz / Introduction to databases](https://jaanos.github.io/OPB/): [vaje](https://github.com/jaanos/OPB) \| [primer z `bottle.py`](https://github.com/jaanos/OPB-bottle) \| [primer s Shiny](https://github.com/jaanos/OPB-shiny) \| [predavanja](https://github.com/alenFMF/OPB14-15)
-* Podatkovne baze 1 / Databases 1: [2019/20](https://github.com/jaanos/filmi) \| [2018/19](https://github.com/jaanos/najboljsi-filmi) \| [2017/18](https://github.com/jaanos/banka) \| [predavanja](https://github.com/matijapretnar/podatkovne-baze-1)
+* Podatkovne baze 1 / Databases 1: [vaje](https://github.com/jaanos/podatkovne-baze-1) \| [2019/20](https://github.com/jaanos/filmi) \| [2018/19](https://github.com/jaanos/najboljsi-filmi) \| [2017/18](https://github.com/jaanos/banka) \| [predavanja](https://github.com/matijapretnar/podatkovne-baze-1)
 * Podatkovne strukture in algoritmi 1 / Data structures and algorithms 1: [vaje](https://github.com/jaanos/PSA1)
 * Uvod v programiranje / Introduction to programming: [2017/18](https://github.com/jaanos/zelvje-dirke) \| [predavanja](https://github.com/matijapretnar/uvod-v-programiranje)
 
