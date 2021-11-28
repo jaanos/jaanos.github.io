@@ -18,7 +18,7 @@ permalink: /
 * K. Berčič, J. Vidali: [DiscreteZOO: A Fingerprint Database of Discrete Objects](https://link.springer.com/article/10.1007/s11786-020-00453-5?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200215) \| [conference paper](https://link.springer.com/chapter/10.1007%2F978-3-319-96418-8_5)
 * A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](https://link.springer.com/article/10.1007%2Fs00493-019-4115-z) \| [arXiv](http://arxiv.org/abs/1809.07553)
 * A. Gavrilyuk, J. Vidali, J. Williford: [On few-class *Q*-polynomial association schemes: feasible parameters and nonexistence results](https://amc-journal.eu/index.php/amc/article/view/2101)
-* P. Potočnik, J. Vidali: [Cubic vertex-transitive graphs of girth six](https://arxiv.org/abs/2005.01635)
+* P. Potočnik, J. Vidali: [Cubic vertex-transitive graphs of girth six](https://www.sciencedirect.com/science/article/pii/S0012365X21004477) \| [arXiv](https://arxiv.org/abs/2005.01635)
 
 ### Repozitoriji / Repositories
 
