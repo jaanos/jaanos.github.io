@@ -7,8 +7,8 @@ permalink: /
 
 ### Članki / Papers
 
-* J. Vidali, P. Nose, E. Pašalić: [Collisions for variants of the BLAKE hash function](http://lkrv.fri.uni-lj.si/~janos/blake/collisions.pdf)
-* M. Deza, E. Deza, J. Vidali: [Cones of Weighted and Partial Metrics](http://lkrv.fri.uni-lj.si/~janos/cones/) \| [arXiv](http://arxiv.org/abs/1101.0517)
+* J. Vidali, P. Nose, E. Pašalić: [Collisions for variants of the BLAKE hash function](blake/collisions.pdf)
+* M. Deza, E. Deza, J. Vidali: [Cones of Weighted and Partial Metrics](https://jaanos.github.io/cones/) \| [arXiv](http://arxiv.org/abs/1101.0517)
 * A. Jurišić, J. Vidali: [Extremal 1-codes in distance-regular graphs of diameter 3](http://link.springer.com/article/10.1007/s10623-012-9651-0)
 * A. Jurišić, J. Vidali: [Restrictions on classical distance-regular graphs](http://link.springer.com/article/10.1007/s10801-017-0765-3)
 * J. Vidali: [Using symbolic computation to prove nonexistence of distance-regular graphs](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p21) \| [conference paper](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/105.html)
@@ -78,5 +78,5 @@ permalink: /
 
 ## Ostalo / Other
 
-* [Geohashing RSS feed](http://lkrv.fri.uni-lj.si/~janos/geohash.xml.php?lat=46&lon=14) (change the `lat` and `lon` parameters to get data for your graticule)
+* [Geohashing RSS feed](http://baza.fmf.uni-lj.si/geohash.xml.php?lat=46&lon=14) (change the `lat` and `lon` parameters to get data for your graticule)
 * [misc](https://github.com/jaanos/misc): miscellaneous stuff that I've programmed over the years
