@@ -19,6 +19,7 @@ permalink: /
 * A. Gavrilyuk, S. Suda, J. Vidali: [On tight 4-designs in Hamming association schemes](https://link.springer.com/article/10.1007%2Fs00493-019-4115-z) \| [arXiv](http://arxiv.org/abs/1809.07553)
 * A. Gavrilyuk, J. Vidali, J. Williford: [On few-class *Q*-polynomial association schemes: feasible parameters and nonexistence results](https://amc-journal.eu/index.php/amc/article/view/2101)
 * P. Potočnik, J. Vidali: [Cubic vertex-transitive graphs of girth six](https://www.sciencedirect.com/science/article/pii/S0012365X21004477) \| [arXiv](https://arxiv.org/abs/2005.01635)
+* J. Vidali: [Eigenspace Embeddings of Imprimitive Association Schemes](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p2)
 
 ### Repozitoriji / Repositories
 
